@@ -1,0 +1,15 @@
+{
+  "name": "gugu-http",
+  "version": "0.1.0",
+  "author": "gugu",
+  "summary": null,
+  "license": "Apache-2.0",
+  "source": "https://github.com/Gugu-Mdladla/http.git",
+  "project_page": "https://github.com/Gugu-Mdladla/http",
+  "issues_url": "https://github.com/Gugu-Mdladla/http/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
